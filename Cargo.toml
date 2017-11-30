@@ -1,0 +1,6 @@
+[package]
+name = "AoC-2017"
+version = "0.1.0"
+authors = ["Josef Kuchař <email@josefkuchar.cz>"]
+
+[dependencies]
