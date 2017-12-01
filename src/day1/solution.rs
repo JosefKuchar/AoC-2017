@@ -10,9 +10,8 @@ fn load_input() -> Result<String, Box<Error>> {
     return Ok(contents);
 }
 
-//FIXME: Unsafe
 fn char_to_int(character: char) -> usize {
-    return character.to_digit(10).unwrap() as usize;
+    return character.to_digit(10).expect("Invalid character in input") as usize;
 }
 
 fn part1(input: &String) -> usize {
@@ -42,7 +41,7 @@ fn part2(input: &String) -> usize {
 }
 
 pub fn solve() {
-    let text = load_input().unwrap();
+    let text = load_input().expect("Error while reading file");
     let solution1 = part1(&text);
     let solution2 = part2(&text);
     println!("{} {}", solution1, solution2);
@@ -50,7 +49,6 @@ pub fn solve() {
 
 #[cfg(test)]
 mod tests {
-
     #[test]
     fn part1() {
         assert_eq!(3, super::part1(&"1122".to_string()));
