@@ -14,4 +14,14 @@ fn main() {
     }
 
     println!("{}", sum);
+
+    sum = 0;
+
+    for (index, character) in text.chars().enumerate() {
+        if character == text.chars().nth((index + (text.len() / 2)) % text.len()).unwrap() {
+            sum += character.to_digit(10).unwrap() as usize;
+        }
+    }
+    
+    println!("{}", sum);
 }
