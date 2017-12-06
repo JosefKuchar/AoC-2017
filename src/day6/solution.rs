@@ -1,6 +1,7 @@
 use std::fs::File;
 use std::io::prelude::*;
 use std::error::Error;
+use std::collections::HashSet;
 
 fn load_input() -> Result<String, Box<Error>> {
     let mut file = File::open("src/day6/input.txt")?;
@@ -29,39 +30,37 @@ fn reallocate(banks: &mut Vec<usize>) {
 }
 
 fn part1(banks: &mut Vec<usize>) -> usize {
-    let mut reallocations: Vec<Vec<usize>> = Vec::new();
+    let mut reallocatations: HashSet<Vec<usize>> = HashSet::new();
     let mut cycle = 0;
 
     loop {
         reallocate(banks);
-        cycle += 1;    
-        for reallocation in &reallocations {
-            if reallocation == banks {
-                return cycle;
-            }
+        cycle += 1;
+        if reallocatations.contains(banks) {
+            return cycle
         }
-        reallocations.push(banks.clone());
-
+        reallocatations.insert(banks.clone());
     }
 }
 
 fn part2(banks: &mut Vec<usize>) -> usize {
-    let mut reallocations: Vec<Vec<usize>> = Vec::new();
+    let mut reallocatations: HashSet<Vec<usize>> = HashSet::new();
     let mut cycle = 0;
-
     loop {
         reallocate(banks);
-        cycle += 1;    
-        for (index, reallocation) in reallocations.iter().enumerate() {
-            if reallocation == banks {
-                return cycle - index - 1;
+        if reallocatations.contains(banks) {
+            let original = banks.clone();
+            loop {
+                reallocate(banks);
+                cycle += 1;
+                if original == *banks {
+                    return cycle;
+                }
             }
         }
-        reallocations.push(banks.clone());
-
+        reallocatations.insert(banks.clone());
     }
 }
-
 
 #[cfg(test)]
 mod tests {
