@@ -2,6 +2,7 @@ use std::fs::File;
 use std::io::prelude::*;
 use std::error::Error;
 use std::collections::HashMap;
+use std::collections::HashSet;
 
 fn load_input() -> Result<String, Box<Error>> {
     let mut file = File::open("src/day7/input.txt")?;
@@ -10,11 +11,11 @@ fn load_input() -> Result<String, Box<Error>> {
     return Ok(contents);
 }
 
-
 pub fn solve() {
     let input = load_input().unwrap();
     let solution1 = part1(&input);
-    println!("{}", solution1);
+    let solution2 = part2(&input);
+    println!("{} {}", solution1, solution2);
 }
 
 fn part1(input: &str) -> String {
@@ -36,16 +37,82 @@ fn part1(input: &str) -> String {
             }
         }
     }
-
-
-
     let (key, _) = programs.into_iter().find(|&(_, value)| value == 0).unwrap();
     return key
 }
 
+fn part2(input: &str) -> usize {
+    let mut children_set: HashSet<String> = HashSet::new();
+    let mut programs: HashMap<String, Program> = HashMap::new();
+    for line in input.lines() {
+        if line.contains("->") {
+            let parts: Vec<&str> = line.split_whitespace().collect();
+            let children: Vec<String> = parts[3..].iter().map(|x| x.replace(",", "")).collect();
+            for child in &children {
+                children_set.insert(child.clone());
+            }
+            let program = Program {
+                weight: parts[1].replace("(", "").replace(")", "").parse().unwrap(),
+                children: children
+            };
+            programs.insert(parts[0].into(), program);
+        } else {
+            let parts: Vec<&str> = line.split_whitespace().collect();
+            let program = Program {
+                weight: parts[1].replace("(", "").replace(")", "").parse().unwrap(),
+                children: Vec::new()
+            };
+            programs.insert(parts[0].into(), program);
+        }
+    }
+
+    let mut root = None;
+    for (name, _) in &programs {
+        if !children_set.contains(name) {
+            root = Some(name.clone());
+        }
+    }
+    find_error(&root.unwrap(), &programs);
+
+    return 0;
+}
+
 struct Program {
-    parent: String,
-    weight: usize
+    weight: u32,
+    children: Vec<String>,
+}
+
+fn calculate_weight(name: &str, nodes: &HashMap<String, Program>) -> u32 {
+    let node = nodes.get(name).unwrap();
+    let mut weight = node.weight;
+    for child in &node.children {
+        weight += calculate_weight(child, &nodes);
+    }
+    return weight;
+}
+
+fn find_error(name: &str, nodes: &HashMap<String, Program>) {
+    let node = nodes.get(name).unwrap();
+    let weights: Vec<u32> = node.children
+        .iter()
+        .map(|x| calculate_weight(x, &nodes))
+        .collect();
+    for w in &weights {
+        if *w != weights[0] {
+            println!("Error {} != {}", w, weights[0]);
+            println!(
+            "{} ({}) -> {:?}",
+            name,
+            node.weight,
+            node.children.iter().zip(weights.clone()).collect::<Vec<_>>()
+        );
+            break;
+        }
+    }
+    
+    for child in &node.children {
+        find_error(child, &nodes);
+    }
 }
 
 #[cfg(test)]
