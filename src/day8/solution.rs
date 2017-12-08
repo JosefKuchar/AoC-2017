@@ -11,8 +11,7 @@ fn load_input() -> Result<String, Box<Error>> {
 }
 
 pub fn solve() {
-    let input = load_input().unwrap();
-    let (part1, part2) = process(&input);
+    let (part1, part2) = process(&load_input().unwrap());
     println!("{} {}", part1, part2);
 }
 
@@ -42,13 +41,13 @@ fn process(input: &str) -> (isize, isize) {
 
         if !result {
             continue;
-        } 
-        
-        if parts[1] == "inc" {
-            *register_x += value_x;
-        } else {
-            *register_x -= value_x;
         }
+        
+        *register_x += if parts[1] == "inc" { 
+            value_x
+        } else { 
+            -value_x
+        };
 
         if *register_x > max_value {
             max_value = *register_x;
