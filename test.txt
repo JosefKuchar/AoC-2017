@@ -1,0 +1,1435 @@
+1047 982
+47623 312
+438 266330
+466 251
+378980 26889114
+12841 8038
+Root: eugwuhl
+Mismatch 48292 != 48284
+eugwuhl (18) -> [("avpklqy", 48284), ("tytbgx", 48284), ("bdohoaa", 48284), ("smaygo", 48292), ("pvvbn", 48284), ("hgizeb", 48284), ("tchfafn", 48284)]
+avpklqy (68) -> [("werlnym", 16072), ("tkoxc", 16072), ("iquxck", 16072)]
+werlnym (34) -> [("gdneruv", 2673), ("byhatd", 2673), ("wusxwq", 2673), ("vusafsv", 2673), ("skouwt", 2673), ("hvgum", 2673)]
+gdneruv (2040) -> [("srgfuk", 211), ("btyotwv", 211), ("butfc", 211)]
+srgfuk (109) -> [("hewzwp", 34), ("ienee", 34), ("uwmbh", 34)]
+hewzwp (34)
+ienee (34)
+uwmbh (34)
+btyotwv (139) -> [("asbiye", 18), ("nmvqwi", 18), ("swwtm", 18), ("ctytwcc", 18)]
+asbiye (18)
+nmvqwi (18)
+swwtm (18)
+ctytwcc (18)
+butfc (58) -> [("nhbff", 51), ("hbzkf", 51), ("ytbwqwb", 51)]
+nhbff (51)
+hbzkf (51)
+ytbwqwb (51)
+byhatd (1716) -> [("zeenwpx", 319), ("tqyte", 319), ("nrgwyzb", 319)]
+zeenwpx (22) -> [("nhmrdn", 99), ("sihgu", 99), ("uaknxb", 99)]
+nhmrdn (99)
+sihgu (99)
+uaknxb (99)
+tqyte (225) -> [("xpzymh", 47), ("wdyxx", 47)]
+xpzymh (47)
+wdyxx (47)
+nrgwyzb (263) -> [("eunfszw", 28), ("aijmghs", 28)]
+eunfszw (28)
+aijmghs (28)
+wusxwq (1078) -> [("npzlka", 319), ("wxsvnj", 319), ("kirvox", 319), ("pqguzw", 319), ("tecducv", 319)]
+npzlka (99) -> [("lijmpm", 55), ("dwnys", 55), ("ijajh", 55), ("gfluo", 55)]
+lijmpm (55)
+dwnys (55)
+ijajh (55)
+gfluo (55)
+wxsvnj (205) -> [("rabdvok", 57), ("vrbjw", 57)]
+rabdvok (57)
+vrbjw (57)
+kirvox (159) -> [("jerwsi", 80), ("nmteeca", 80)]
+jerwsi (80)
+nmteeca (80)
+pqguzw (181) -> [("kqtye", 46), ("xpjksm", 46), ("oninxl", 46)]
+kqtye (46)
+xpjksm (46)
+oninxl (46)
+tecducv (151) -> [("ftrzswp", 84), ("sfztpf", 84)]
+ftrzswp (84)
+sfztpf (84)
+vusafsv (6) -> [("ivxnetm", 381), ("syjew", 381), ("csdrrx", 381), ("ngonq", 381), ("azfkwzp", 381), ("awysiko", 381), ("qlesgoz", 381)]
+ivxnetm (267) -> [("zdelwv", 57), ("ctdghk", 57)]
+zdelwv (57)
+ctdghk (57)
+syjew (204) -> [("tgtrjko", 59), ("xgdolgm", 59), ("jngbnk", 59)]
+tgtrjko (59)
+xgdolgm (59)
+jngbnk (59)
+csdrrx (323) -> [("rwkuzs", 29), ("jbdtgk", 29)]
+rwkuzs (29)
+jbdtgk (29)
+ngonq (243) -> [("oydwkrv", 69), ("rnibhd", 69)]
+oydwkrv (69)
+rnibhd (69)
+azfkwzp (339) -> [("eflcxi", 21), ("mgwbaj", 21)]
+eflcxi (21)
+mgwbaj (21)
+awysiko (93) -> [("qorpdxg", 72), ("ccdpnr", 72), ("evwtu", 72), ("cjnab", 72)]
+qorpdxg (72)
+ccdpnr (72)
+evwtu (72)
+cjnab (72)
+qlesgoz (185) -> [("pwlpeu", 98), ("rchqa", 98)]
+pwlpeu (98)
+rchqa (98)
+skouwt (671) -> [("qvjwgkp", 286), ("uzqnl", 286), ("gghqilu", 286), ("kpmyxk", 286), ("ckgotfs", 286), ("edbemy", 286), ("nhtxs", 286)]
+qvjwgkp (160) -> [("tjwodb", 63), ("juvwqt", 63)]
+tjwodb (63)
+juvwqt (63)
+uzqnl (220) -> [("xyhoa", 33), ("sfxng", 33)]
+xyhoa (33)
+sfxng (33)
+gghqilu (186) -> [("sxxnze", 25), ("paioxf", 25), ("gjmbm", 25), ("kwtghnf", 25)]
+sxxnze (25)
+paioxf (25)
+gjmbm (25)
+kwtghnf (25)
+kpmyxk (247) -> [("icqkc", 13), ("mjpcrh", 13), ("uvcsl", 13)]
+icqkc (13)
+mjpcrh (13)
+uvcsl (13)
+ckgotfs (94) -> [("bilxm", 96), ("emcjby", 96)]
+bilxm (96)
+emcjby (96)
+edbemy (286)
+nhtxs (252) -> [("dvhcixe", 17), ("uwopuvj", 17)]
+dvhcixe (17)
+uwopuvj (17)
+hvgum (2381) -> [("dfqvxnn", 73), ("kuhybd", 73), ("rdbbda", 73), ("rlyui", 73)]
+dfqvxnn (73)
+kuhybd (73)
+rdbbda (73)
+rlyui (73)
+tkoxc (1050) -> [("pmafsug", 2146), ("jbaztvm", 2146), ("rsvudoc", 2146), ("kixlvf", 2146), ("ogjeuhl", 2146), ("tthmac", 2146), ("qpycn", 2146)]
+pmafsug (1041) -> [("hkmaxza", 221), ("uryqiso", 221), ("alhkjxm", 221), ("pnjgt", 221), ("nadwsc", 221)]
+hkmaxza (221)
+uryqiso (183) -> [("rmbzvq", 19), ("lvpdwy", 19)]
+rmbzvq (19)
+lvpdwy (19)
+alhkjxm (67) -> [("qqncuk", 77), ("lywsab", 77)]
+qqncuk (77)
+lywsab (77)
+pnjgt (55) -> [("obqblrl", 83), ("fuvpi", 83)]
+obqblrl (83)
+fuvpi (83)
+nadwsc (113) -> [("ohvhpc", 36), ("zvqyr", 36), ("crlkolg", 36)]
+ohvhpc (36)
+zvqyr (36)
+crlkolg (36)
+jbaztvm (53) -> [("jqvjr", 299), ("eyfvei", 299), ("fkfyeej", 299), ("paqngfj", 299), ("basiy", 299), ("pkivl", 299), ("vsyolk", 299)]
+jqvjr (47) -> [("adzvlgk", 63), ("fdvgk", 63), ("lnttud", 63), ("aspoy", 63)]
+adzvlgk (63)
+fdvgk (63)
+lnttud (63)
+aspoy (63)
+eyfvei (103) -> [("zgxczmq", 98), ("lnreval", 98)]
+zgxczmq (98)
+lnreval (98)
+fkfyeej (299)
+paqngfj (161) -> [("qyqid", 69), ("htpboal", 69)]
+qyqid (69)
+htpboal (69)
+basiy (133) -> [("qifofxk", 83), ("qutgb", 83)]
+qifofxk (83)
+qutgb (83)
+pkivl (217) -> [("kdwzsz", 41), ("dejsmq", 41)]
+kdwzsz (41)
+dejsmq (41)
+vsyolk (299)
+rsvudoc (1348) -> [("zwvtdhw", 266), ("gpvlztd", 266), ("njvsnz", 266)]
+zwvtdhw (84) -> [("tujzoy", 91), ("gtkkx", 91)]
+tujzoy (91)
+gtkkx (91)
+gpvlztd (106) -> [("tqzmvz", 80), ("aqdjk", 80)]
+tqzmvz (80)
+aqdjk (80)
+njvsnz (128) -> [("lztme", 46), ("txkog", 46), ("yypfse", 46)]
+lztme (46)
+txkog (46)
+yypfse (46)
+kixlvf (1906) -> [("eledia", 80), ("ioexd", 80), ("mamllly", 80)]
+eledia (6) -> [("maqzwn", 37), ("iplfnd", 37)]
+maqzwn (37)
+iplfnd (37)
+ioexd (52) -> [("shfyok", 14), ("xcwlym", 14)]
+shfyok (14)
+xcwlym (14)
+mamllly (66) -> [("qxyemg", 7), ("umkwllw", 7)]
+qxyemg (7)
+umkwllw (7)
+ogjeuhl (2016) -> [("argdqd", 65), ("euezshv", 65)]
+argdqd (65)
+euezshv (65)
+tthmac (1206) -> [("maubg", 235), ("qewavw", 235), ("jpeehl", 235), ("pvzjsbf", 235)]
+maubg (85) -> [("cnxyhg", 50), ("mpgge", 50), ("uyfzha", 50)]
+cnxyhg (50)
+mpgge (50)
+uyfzha (50)
+qewavw (61) -> [("gkyph", 58), ("byfbs", 58), ("lhcinxf", 58)]
+gkyph (58)
+byfbs (58)
+lhcinxf (58)
+jpeehl (157) -> [("paqbnl", 39), ("jqwhun", 39)]
+paqbnl (39)
+jqwhun (39)
+pvzjsbf (143) -> [("wvaketk", 46), ("qklhqlf", 46)]
+wvaketk (46)
+qklhqlf (46)
+qpycn (544) -> [("yornm", 267), ("iiygchg", 267), ("vpvcum", 267), ("plbmu", 267), ("bxqdudx", 267), ("twfzzyt", 267)]
+yornm (149) -> [("nniqh", 59), ("gqcmcc", 59)]
+nniqh (59)
+gqcmcc (59)
+iiygchg (151) -> [("cwehc", 29), ("cwkdjn", 29), ("pppsd", 29), ("ydnsnh", 29)]
+cwehc (29)
+cwkdjn (29)
+pppsd (29)
+ydnsnh (29)
+vpvcum (91) -> [("nvlpgon", 88), ("sctzxf", 88)]
+nvlpgon (88)
+sctzxf (88)
+plbmu (107) -> [("rcaajf", 80), ("qdmqsrh", 80)]
+rcaajf (80)
+qdmqsrh (80)
+bxqdudx (195) -> [("dyacjh", 24), ("nsecr", 24), ("unfpyg", 24)]
+dyacjh (24)
+nsecr (24)
+unfpyg (24)
+twfzzyt (175) -> [("rdomi", 46), ("pcwawh", 46)]
+rdomi (46)
+pcwawh (46)
+iquxck (6442) -> [("zubbg", 1926), ("tpjuj", 1926), ("zkkok", 1926), ("upeezd", 1926), ("nafjtip", 1926)]
+zubbg (1077) -> [("hhldn", 283), ("kvyrc", 283), ("fhsdpg", 283)]
+hhldn (61) -> [("cujtqk", 74), ("pvdsg", 74), ("lmntml", 74)]
+cujtqk (74)
+pvdsg (74)
+lmntml (74)
+kvyrc (133) -> [("sdnwo", 75), ("acrly", 75)]
+sdnwo (75)
+acrly (75)
+fhsdpg (143) -> [("lncdocs", 70), ("xubhat", 70)]
+lncdocs (70)
+xubhat (70)
+tpjuj (24) -> [("fnvptes", 317), ("bjtlzzh", 317), ("tyajj", 317), ("izjeb", 317), ("kfxcot", 317), ("wvhdyg", 317)]
+fnvptes (297) -> [("cjnwipw", 10), ("blwxqfp", 10)]
+cjnwipw (10)
+blwxqfp (10)
+bjtlzzh (133) -> [("syfccrr", 92), ("rgzch", 92)]
+syfccrr (92)
+rgzch (92)
+tyajj (135) -> [("jvhjtv", 91), ("pxupwhx", 91)]
+jvhjtv (91)
+pxupwhx (91)
+izjeb (105) -> [("lduim", 53), ("hgegrz", 53), ("veegvvc", 53), ("pvzeznc", 53)]
+lduim (53)
+hgegrz (53)
+veegvvc (53)
+pvzeznc (53)
+kfxcot (182) -> [("hxqik", 45), ("lkstwl", 45), ("vqumdju", 45)]
+hxqik (45)
+lkstwl (45)
+vqumdju (45)
+wvhdyg (29) -> [("dlbsqa", 96), ("fnoaz", 96), ("zowqczm", 96)]
+dlbsqa (96)
+fnoaz (96)
+zowqczm (96)
+zkkok (1239) -> [("qtxfdex", 229), ("fufzi", 229), ("uamaay", 229)]
+qtxfdex (191) -> [("iavld", 19), ("elcvqr", 19)]
+iavld (19)
+elcvqr (19)
+fufzi (191) -> [("evhgkft", 19), ("kzroqbi", 19)]
+evhgkft (19)
+kzroqbi (19)
+uamaay (43) -> [("ucjeppl", 93), ("lfmzadj", 93)]
+ucjeppl (93)
+lfmzadj (93)
+upeezd (564) -> [("ozjzmh", 227), ("fzbbm", 227), ("fjhht", 227), ("wrzwgxf", 227), ("nvkqru", 227), ("jorbfl", 227)]
+ozjzmh (81) -> [("lvlfju", 73), ("uraugcn", 73)]
+lvlfju (73)
+uraugcn (73)
+fzbbm (137) -> [("gheqw", 45), ("nrsrwb", 45)]
+gheqw (45)
+nrsrwb (45)
+fjhht (193) -> [("ieqgany", 17), ("hphzmhs", 17)]
+ieqgany (17)
+hphzmhs (17)
+wrzwgxf (77) -> [("kgdtem", 75), ("kndobxz", 75)]
+kgdtem (75)
+kndobxz (75)
+nvkqru (139) -> [("sdqzod", 44), ("raucx", 44)]
+sdqzod (44)
+raucx (44)
+jorbfl (181) -> [("uvhyl", 23), ("bqjypo", 23)]
+uvhyl (23)
+bqjypo (23)
+nafjtip (1182) -> [("cxflah", 186), ("insxh", 186), ("iyosp", 186), ("zyqkcmb", 186)]
+cxflah (122) -> [("oxyltk", 32), ("clrfkgl", 32)]
+oxyltk (32)
+clrfkgl (32)
+insxh (186)
+iyosp (88) -> [("gcpipz", 49), ("scsxe", 49)]
+gcpipz (49)
+scsxe (49)
+zyqkcmb (130) -> [("ynbruov", 14), ("dqvygcd", 14), ("gzilup", 14), ("oarmggv", 14)]
+ynbruov (14)
+dqvygcd (14)
+gzilup (14)
+oarmggv (14)
+tytbgx (6588) -> [("ynseh", 10424), ("uqqclia", 10424), ("darwcoj", 10424), ("eooiuq", 10424)]
+ynseh (5204) -> [("hpaeg", 1044), ("yznahfs", 1044), ("cxapyp", 1044), ("rtwwdrh", 1044), ("kuusoe", 1044)]
+hpaeg (54) -> [("lvqkp", 330), ("xjbmdc", 330), ("solooh", 330)]
+lvqkp (66) -> [("jvsmwee", 88), ("quhkp", 88), ("cufau", 88)]
+jvsmwee (88)
+quhkp (88)
+cufau (88)
+xjbmdc (142) -> [("tmbkt", 94), ("ywhxoi", 94)]
+tmbkt (94)
+ywhxoi (94)
+solooh (188) -> [("ffcwobn", 71), ("fmfkcp", 71)]
+ffcwobn (71)
+fmfkcp (71)
+yznahfs (102) -> [("wubxbc", 157), ("vtewtb", 157), ("jacplh", 157), ("wwpxh", 157), ("zhdwu", 157), ("digpoav", 157)]
+wubxbc (43) -> [("htqjli", 38), ("lpjbjju", 38), ("hbncy", 38)]
+htqjli (38)
+lpjbjju (38)
+hbncy (38)
+vtewtb (85) -> [("thablkl", 18), ("hyywt", 18), ("baljt", 18), ("insvmt", 18)]
+thablkl (18)
+hyywt (18)
+baljt (18)
+insvmt (18)
+jacplh (133) -> [("ahrynjm", 12), ("aenrksb", 12)]
+ahrynjm (12)
+aenrksb (12)
+wwpxh (51) -> [("luufi", 53), ("aiwqhey", 53)]
+luufi (53)
+aiwqhey (53)
+zhdwu (17) -> [("ewalq", 70), ("gabbp", 70)]
+ewalq (70)
+gabbp (70)
+digpoav (61) -> [("dapds", 32), ("jwutq", 32), ("uxddlkq", 32)]
+dapds (32)
+jwutq (32)
+uxddlkq (32)
+cxapyp (261) -> [("aodkqlr", 261), ("lmxvhwl", 261), ("ralmgdq", 261)]
+aodkqlr (185) -> [("ymxpav", 38), ("kbmrrew", 38)]
+ymxpav (38)
+kbmrrew (38)
+lmxvhwl (175) -> [("azbjh", 43), ("wuvctps", 43)]
+azbjh (43)
+wuvctps (43)
+ralmgdq (91) -> [("bmcsya", 85), ("lfzthdo", 85)]
+bmcsya (85)
+lfzthdo (85)
+rtwwdrh (417) -> [("wbflq", 209), ("sierb", 209), ("cawvue", 209)]
+wbflq (145) -> [("wdwfjh", 32), ("suhso", 32)]
+wdwfjh (32)
+suhso (32)
+sierb (113) -> [("asihmc", 32), ("iaini", 32), ("wepwf", 32)]
+asihmc (32)
+iaini (32)
+wepwf (32)
+cawvue (81) -> [("cslrgbh", 64), ("vkpnxs", 64)]
+cslrgbh (64)
+vkpnxs (64)
+kuusoe (396) -> [("gxcwynf", 216), ("mxvhj", 216), ("wijfihq", 216)]
+gxcwynf (80) -> [("kyfcsou", 68), ("jelcp", 68)]
+kyfcsou (68)
+jelcp (68)
+mxvhj (216)
+wijfihq (156) -> [("zauue", 20), ("mgqziu", 20), ("egrlfh", 20)]
+zauue (20)
+mgqziu (20)
+egrlfh (20)
+uqqclia (4793) -> [("gtmcr", 1877), ("ohitm", 1877), ("ashxpav", 1877)]
+gtmcr (578) -> [("svsgzi", 433), ("pnmkl", 433), ("owsvc", 433)]
+svsgzi (45) -> [("nsdver", 97), ("xexswl", 97), ("oidmfs", 97), ("gwlrdbk", 97)]
+nsdver (97)
+xexswl (97)
+oidmfs (97)
+gwlrdbk (97)
+pnmkl (325) -> [("rhyglf", 54), ("meybf", 54)]
+rhyglf (54)
+meybf (54)
+owsvc (433)
+ohitm (1133) -> [("aaeeqh", 248), ("dlodc", 248), ("rxerq", 248)]
+aaeeqh (68) -> [("nmyem", 90), ("fserz", 90)]
+nmyem (90)
+fserz (90)
+dlodc (70) -> [("zhpmkq", 89), ("xbiuhd", 89)]
+zhpmkq (89)
+xbiuhd (89)
+rxerq (168) -> [("uoyzsdf", 20), ("seyiftq", 20), ("ydfmxw", 20), ("ezgvb", 20)]
+uoyzsdf (20)
+seyiftq (20)
+ydfmxw (20)
+ezgvb (20)
+ashxpav (59) -> [("quybmbk", 303), ("sydqf", 303), ("qnblxrh", 303), ("ysfevlj", 303), ("xgpmq", 303), ("stgickl", 303)]
+quybmbk (179) -> [("pmfuf", 62), ("ubrevf", 62)]
+pmfuf (62)
+ubrevf (62)
+sydqf (31) -> [("rpjlb", 68), ("mjseecw", 68), ("ohyrn", 68), ("yzexxy", 68)]
+rpjlb (68)
+mjseecw (68)
+ohyrn (68)
+yzexxy (68)
+qnblxrh (7) -> [("qjhdxdr", 74), ("bhwxgp", 74), ("dvpay", 74), ("ktooxbh", 74)]
+qjhdxdr (74)
+bhwxgp (74)
+dvpay (74)
+ktooxbh (74)
+ysfevlj (205) -> [("awclg", 49), ("ooiwbe", 49)]
+awclg (49)
+ooiwbe (49)
+xgpmq (126) -> [("dkjsfxs", 59), ("dfykpx", 59), ("gtnqtd", 59)]
+dkjsfxs (59)
+dfykpx (59)
+gtnqtd (59)
+stgickl (229) -> [("kozlia", 37), ("znuin", 37)]
+kozlia (37)
+znuin (37)
+darwcoj (2168) -> [("yffnz", 1376), ("igrahel", 1376), ("dmkji", 1376), ("juqrwwm", 1376), ("pndayy", 1376), ("nrevor", 1376)]
+yffnz (1004) -> [("smvodeb", 124), ("ztruf", 124), ("apkfhsb", 124)]
+smvodeb (124)
+ztruf (44) -> [("gfhuv", 40), ("fcdww", 40)]
+gfhuv (40)
+fcdww (40)
+apkfhsb (36) -> [("mwknwxh", 44), ("mqrvu", 44)]
+mwknwxh (44)
+mqrvu (44)
+igrahel (146) -> [("uzbqa", 410), ("ckakkja", 410), ("ihqfqm", 410)]
+uzbqa (376) -> [("umwer", 17), ("iazmq", 17)]
+umwer (17)
+iazmq (17)
+ckakkja (38) -> [("fqbovid", 93), ("siulcz", 93), ("bapvqa", 93), ("pwajo", 93)]
+fqbovid (93)
+siulcz (93)
+bapvqa (93)
+pwajo (93)
+ihqfqm (365) -> [("zixgz", 15), ("glfoc", 15), ("ieabomm", 15)]
+zixgz (15)
+glfoc (15)
+ieabomm (15)
+dmkji (1094) -> [("hdkvbzv", 94), ("cfyuogb", 94), ("puxlsjo", 94)]
+hdkvbzv (50) -> [("aqubpi", 11), ("twogxyg", 11), ("vcrsnrf", 11), ("xezse", 11)]
+aqubpi (11)
+twogxyg (11)
+vcrsnrf (11)
+xezse (11)
+cfyuogb (13) -> [("hlyodf", 27), ("tvtgaan", 27), ("qsewkq", 27)]
+hlyodf (27)
+tvtgaan (27)
+qsewkq (27)
+puxlsjo (26) -> [("gyveijp", 34), ("nikvfs", 34)]
+gyveijp (34)
+nikvfs (34)
+juqrwwm (98) -> [("bhtoyru", 426), ("ulacz", 426), ("enkufi", 426)]
+bhtoyru (186) -> [("icxhhje", 80), ("ighndd", 80), ("fbdrf", 80)]
+icxhhje (80)
+ighndd (80)
+fbdrf (80)
+ulacz (412) -> [("ghzvdod", 7), ("jkfce", 7)]
+ghzvdod (7)
+jkfce (7)
+enkufi (62) -> [("vurdsd", 91), ("srpcy", 91), ("dihezs", 91), ("xzcix", 91)]
+vurdsd (91)
+srpcy (91)
+dihezs (91)
+xzcix (91)
+pndayy (1340) -> [("ftzhz", 18), ("yedwosl", 18)]
+ftzhz (18)
+yedwosl (18)
+nrevor (596) -> [("xeeuxiz", 195), ("jqeabja", 195), ("fjklelc", 195), ("dkgsxvj", 195)]
+xeeuxiz (33) -> [("rkevnnd", 81), ("mkqtej", 81)]
+rkevnnd (81)
+mkqtej (81)
+jqeabja (81) -> [("luulwx", 57), ("jjanr", 57)]
+luulwx (57)
+jjanr (57)
+fjklelc (83) -> [("pjkrhl", 56), ("yshith", 56)]
+pjkrhl (56)
+yshith (56)
+dkgsxvj (5) -> [("hafgurf", 95), ("qmygary", 95)]
+hafgurf (95)
+qmygary (95)
+eooiuq (54) -> [("qiqjmmi", 2074), ("gperhh", 2074), ("qanpeab", 2074), ("bwkwgf", 2074), ("jgmyc", 2074)]
+qiqjmmi (10) -> [("hgznhq", 344), ("zknngyu", 344), ("lkhvhui", 344), ("tcmexa", 344), ("edaslb", 344), ("gzmejde", 344)]
+hgznhq (302) -> [("tkqdly", 21), ("kexdopt", 21)]
+tkqdly (21)
+kexdopt (21)
+zknngyu (12) -> [("izchcj", 83), ("bcxnm", 83), ("mzlub", 83), ("itcgsx", 83)]
+izchcj (83)
+bcxnm (83)
+mzlub (83)
+itcgsx (83)
+lkhvhui (224) -> [("uufmp", 60), ("qumacc", 60)]
+uufmp (60)
+qumacc (60)
+tcmexa (322) -> [("xhueuj", 11), ("pqmyl", 11)]
+xhueuj (11)
+pqmyl (11)
+edaslb (190) -> [("robfhmz", 77), ("qbqjz", 77)]
+robfhmz (77)
+qbqjz (77)
+gzmejde (318) -> [("eghfd", 13), ("oxcou", 13)]
+eghfd (13)
+oxcou (13)
+gperhh (1195) -> [("sspng", 293), ("pjtsef", 293), ("blbzqf", 293)]
+sspng (199) -> [("dkcrll", 47), ("mnvfi", 47)]
+dkcrll (47)
+mnvfi (47)
+pjtsef (59) -> [("podkl", 78), ("rnkvgzf", 78), ("bqwgm", 78)]
+podkl (78)
+rnkvgzf (78)
+bqwgm (78)
+blbzqf (209) -> [("vnlcfxn", 42), ("yqeuhw", 42)]
+vnlcfxn (42)
+yqeuhw (42)
+qanpeab (9) -> [("qylxl", 295), ("kymwev", 295), ("fpkhun", 295), ("jljwoo", 295), ("kbpklq", 295), ("rppgdnf", 295), ("qjjuk", 295)]
+qylxl (277) -> [("ttiaks", 9), ("pijlcc", 9)]
+ttiaks (9)
+pijlcc (9)
+kymwev (215) -> [("nkywqaj", 40), ("hazyoke", 40)]
+nkywqaj (40)
+hazyoke (40)
+fpkhun (185) -> [("jtqgtf", 55), ("fwfad", 55)]
+jtqgtf (55)
+fwfad (55)
+jljwoo (171) -> [("uqajm", 62), ("dgyjldr", 62)]
+uqajm (62)
+dgyjldr (62)
+kbpklq (173) -> [("oajdkzc", 61), ("lxouzag", 61)]
+oajdkzc (61)
+lxouzag (61)
+rppgdnf (11) -> [("tbkxpdv", 71), ("vugudp", 71), ("etyqg", 71), ("zlbfpnu", 71)]
+tbkxpdv (71)
+vugudp (71)
+etyqg (71)
+zlbfpnu (71)
+qjjuk (109) -> [("iarbj", 93), ("vlbkhb", 93)]
+iarbj (93)
+vlbkhb (93)
+bwkwgf (206) -> [("huhxf", 467), ("txzlem", 467), ("rlfbix", 467), ("itzdby", 467)]
+huhxf (299) -> [("uspjc", 84), ("npmkxsb", 84)]
+uspjc (84)
+npmkxsb (84)
+txzlem (467)
+rlfbix (79) -> [("bokni", 97), ("rjhws", 97), ("ieiha", 97), ("rjkumo", 97)]
+bokni (97)
+rjhws (97)
+ieiha (97)
+rjkumo (97)
+itzdby (331) -> [("itooipv", 68), ("nvpgfzh", 68)]
+itooipv (68)
+nvpgfzh (68)
+jgmyc (1366) -> [("oaefi", 177), ("mzdxg", 177), ("muzkuai", 177), ("hblnwza", 177)]
+oaefi (9) -> [("yigwd", 84), ("nldvtr", 84)]
+yigwd (84)
+nldvtr (84)
+mzdxg (51) -> [("yqdsxvc", 63), ("bxdbijl", 63)]
+yqdsxvc (63)
+bxdbijl (63)
+muzkuai (77) -> [("dhmhbw", 50), ("gqwfut", 50)]
+dhmhbw (50)
+gqwfut (50)
+hblnwza (7) -> [("rhtamt", 85), ("zwiidh", 85)]
+rhtamt (85)
+zwiidh (85)
+bdohoaa (18440) -> [("lxjbzu", 9948), ("ppsnn", 9948), ("hatfl", 9948)]
+lxjbzu (12) -> [("nsqfu", 2484), ("nxkpbs", 2484), ("ebeitz", 2484), ("lygtf", 2484)]
+nsqfu (1724) -> [("tgvzdov", 190), ("ksuhtas", 190), ("arbrp", 190), ("nbpkmt", 190)]
+tgvzdov (40) -> [("pubgkhb", 75), ("angyt", 75)]
+pubgkhb (75)
+angyt (75)
+ksuhtas (14) -> [("qvykht", 88), ("wahfxls", 88)]
+qvykht (88)
+wahfxls (88)
+arbrp (48) -> [("vlysbd", 71), ("njkxh", 71)]
+vlysbd (71)
+njkxh (71)
+nbpkmt (60) -> [("thzvetu", 65), ("qjcsn", 65)]
+thzvetu (65)
+qjcsn (65)
+nxkpbs (1707) -> [("cnvir", 259), ("yfwki", 259), ("bhfeafe", 259)]
+cnvir (249) -> [("zghut", 5), ("fjrwy", 5)]
+zghut (5)
+fjrwy (5)
+yfwki (55) -> [("jqgjdku", 68), ("jbsxc", 68), ("lcsqza", 68)]
+jqgjdku (68)
+jbsxc (68)
+lcsqza (68)
+bhfeafe (91) -> [("pfgsvs", 84), ("ruzgpq", 84)]
+pfgsvs (84)
+ruzgpq (84)
+ebeitz (1424) -> [("utdhy", 212), ("hfzyzt", 212), ("cidfent", 212), ("ctjnwq", 212), ("fjkjmhd", 212)]
+utdhy (100) -> [("owkjav", 56), ("vkybxfk", 56)]
+owkjav (56)
+vkybxfk (56)
+hfzyzt (124) -> [("mhvhtg", 44), ("djkaku", 44)]
+mhvhtg (44)
+djkaku (44)
+cidfent (104) -> [("zapjqj", 54), ("gaspe", 54)]
+zapjqj (54)
+gaspe (54)
+ctjnwq (22) -> [("tasqwda", 95), ("qfybq", 95)]
+tasqwda (95)
+qfybq (95)
+fjkjmhd (192) -> [("ntjmdri", 10), ("vzlvim", 10)]
+ntjmdri (10)
+vzlvim (10)
+lygtf (24) -> [("gqaefmb", 410), ("xgowghi", 410), ("nbxceyt", 410), ("tboimc", 410), ("rptgp", 410), ("cdovdt", 410)]
+gqaefmb (234) -> [("wdqjl", 88), ("kbkqm", 88)]
+wdqjl (88)
+kbkqm (88)
+xgowghi (256) -> [("lkokq", 77), ("eevyny", 77)]
+lkokq (77)
+eevyny (77)
+nbxceyt (320) -> [("taizyha", 45), ("pydtt", 45)]
+taizyha (45)
+pydtt (45)
+tboimc (18) -> [("sigya", 98), ("ieeecih", 98), ("scghvn", 98), ("zvqupa", 98)]
+sigya (98)
+ieeecih (98)
+scghvn (98)
+zvqupa (98)
+rptgp (296) -> [("xthyeh", 38), ("kidbaiy", 38), ("rjumsra", 38)]
+xthyeh (38)
+kidbaiy (38)
+rjumsra (38)
+cdovdt (410)
+ppsnn (7698) -> [("hhrvet", 375), ("ajmtxv", 375), ("wubrts", 375), ("nyjgkav", 375), ("lfvih", 375), ("kyrookv", 375)]
+hhrvet (301) -> [("mskxqki", 37), ("jwtzgjf", 37)]
+mskxqki (37)
+jwtzgjf (37)
+ajmtxv (267) -> [("sjmci", 54), ("yhdjwd", 54)]
+sjmci (54)
+yhdjwd (54)
+wubrts (330) -> [("jjsbd", 15), ("mdwiktj", 15), ("qnuusbq", 15)]
+jjsbd (15)
+mdwiktj (15)
+qnuusbq (15)
+nyjgkav (191) -> [("jwvcm", 92), ("kxjnq", 92)]
+jwvcm (92)
+kxjnq (92)
+lfvih (99) -> [("rnzpmw", 92), ("eoxubh", 92), ("xazpni", 92)]
+rnzpmw (92)
+eoxubh (92)
+xazpni (92)
+kyrookv (181) -> [("mdxcp", 97), ("zdcdmle", 97)]
+mdxcp (97)
+zdcdmle (97)
+hatfl (6172) -> [("sqygj", 944), ("nofdxpt", 944), ("mkomwy", 944), ("kmujst", 944)]
+sqygj (848) -> [("jiwpf", 48), ("ckswfrb", 48)]
+jiwpf (48)
+ckswfrb (48)
+nofdxpt (491) -> [("iauzkqz", 151), ("cayxz", 151), ("ygsjv", 151)]
+iauzkqz (81) -> [("axjcbuj", 35), ("meqlt", 35)]
+axjcbuj (35)
+meqlt (35)
+cayxz (33) -> [("nplbgrk", 59), ("twngkp", 59)]
+nplbgrk (59)
+twngkp (59)
+ygsjv (137) -> [("fzqita", 7), ("llale", 7)]
+fzqita (7)
+llale (7)
+mkomwy (86) -> [("ktfbjoo", 286), ("zrvff", 286), ("hgzsxur", 286)]
+ktfbjoo (90) -> [("jgsydq", 98), ("yjbjy", 98)]
+jgsydq (98)
+yjbjy (98)
+zrvff (210) -> [("odhwzy", 38), ("sfpveq", 38)]
+odhwzy (38)
+sfpveq (38)
+hgzsxur (10) -> [("iwczlkt", 69), ("qmgot", 69), ("tjjkgb", 69), ("umjdo", 69)]
+iwczlkt (69)
+qmgot (69)
+tjjkgb (69)
+umjdo (69)
+kmujst (284) -> [("iwsppaw", 220), ("axjqq", 220), ("mljlpfo", 220)]
+iwsppaw (150) -> [("axfvokp", 35), ("qagul", 35)]
+axfvokp (35)
+qagul (35)
+axjqq (106) -> [("xrppd", 57), ("fufjkl", 57)]
+xrppd (57)
+fufjkl (57)
+mljlpfo (90) -> [("gnrij", 65), ("lalblzp", 65)]
+gnrij (65)
+lalblzp (65)
+Mismatch 14556 != 14564
+smaygo (4616) -> [("hmgrlpj", 14564), ("fbnbt", 14556), ("nfdvsc", 14556)]
+Mismatch 2078 != 2070
+hmgrlpj (66) -> [("pnqrgfk", 2070), ("luasrvp", 2070), ("ahrfh", 2070), ("tbfce", 2070), ("drjmjug", 2078), ("nigdlq", 2070), ("omytneg", 2070)]
+pnqrgfk (1707) -> [("msekejl", 121), ("aaroa", 121), ("tfregkr", 121)]
+msekejl (77) -> [("utvdgr", 22), ("hkfgksw", 22)]
+utvdgr (22)
+hkfgksw (22)
+aaroa (121)
+tfregkr (53) -> [("tnntrax", 34), ("jfuzgpw", 34)]
+tnntrax (34)
+jfuzgpw (34)
+luasrvp (1476) -> [("mnvlfcf", 198), ("ofxag", 198), ("xzcfko", 198)]
+mnvlfcf (132) -> [("icmmx", 22), ("hsnsncv", 22), ("bsmryo", 22)]
+icmmx (22)
+hsnsncv (22)
+bsmryo (22)
+ofxag (36) -> [("flyxei", 81), ("jpwtw", 81)]
+flyxei (81)
+jpwtw (81)
+xzcfko (21) -> [("bdslm", 59), ("bywohrp", 59), ("tkhgo", 59)]
+bdslm (59)
+bywohrp (59)
+tkhgo (59)
+ahrfh (2040) -> [("yyfrmb", 15), ("actlu", 15)]
+yyfrmb (15)
+actlu (15)
+tbfce (5) -> [("vozygf", 413), ("mjmskc", 413), ("rludm", 413), ("wgjrzd", 413), ("pwdziu", 413)]
+vozygf (134) -> [("fzyftv", 93), ("yiozhnf", 93), ("hxscfiv", 93)]
+fzyftv (93)
+yiozhnf (93)
+hxscfiv (93)
+mjmskc (399) -> [("slolo", 7), ("jludr", 7)]
+slolo (7)
+jludr (7)
+rludm (351) -> [("sletcp", 31), ("djpvps", 31)]
+sletcp (31)
+djpvps (31)
+wgjrzd (93) -> [("touatc", 80), ("grbpi", 80), ("lclxb", 80), ("grqtsex", 80)]
+touatc (80)
+grbpi (80)
+lclxb (80)
+grqtsex (80)
+pwdziu (253) -> [("nwhma", 40), ("igbhn", 40), ("ckyoc", 40), ("kfvur", 40)]
+nwhma (40)
+igbhn (40)
+ckyoc (40)
+kfvur (40)
+drjmjug (428) -> [("goiwg", 330), ("sbogacc", 330), ("jdvxawc", 330), ("wlczi", 330), ("vinbva", 330)]
+goiwg (162) -> [("lxngrgu", 56), ("ovtoke", 56), ("mpmmos", 56)]
+lxngrgu (56)
+ovtoke (56)
+mpmmos (56)
+sbogacc (264) -> [("qcsjl", 33), ("wttimqr", 33)]
+qcsjl (33)
+wttimqr (33)
+jdvxawc (26) -> [("kfyaw", 76), ("kglxbse", 76), ("ukkmfh", 76), ("jyoevqm", 76)]
+kfyaw (76)
+kglxbse (76)
+ukkmfh (76)
+jyoevqm (76)
+wlczi (246) -> [("yxotxz", 42), ("xronh", 42)]
+yxotxz (42)
+xronh (42)
+vinbva (278) -> [("jpjezb", 26), ("zfswj", 26)]
+jpjezb (26)
+zfswj (26)
+nigdlq (846) -> [("hdsth", 204), ("hlxlrjq", 204), ("txyqy", 204), ("myerj", 204), ("fmntbo", 204), ("irkfc", 204)]
+hdsth (32) -> [("qrdei", 86), ("guyju", 86)]
+qrdei (86)
+guyju (86)
+hlxlrjq (48) -> [("dzrsha", 78), ("stkvqy", 78)]
+dzrsha (78)
+stkvqy (78)
+txyqy (178) -> [("bbiczh", 13), ("lfoiu", 13)]
+bbiczh (13)
+lfoiu (13)
+myerj (204)
+fmntbo (204)
+irkfc (14) -> [("rypyfha", 95), ("cgagfib", 95)]
+rypyfha (95)
+cgagfib (95)
+omytneg (1366) -> [("hmvin", 176), ("eppzprf", 176), ("zrioi", 176), ("sdlcqtb", 176)]
+hmvin (176)
+eppzprf (120) -> [("zvbnb", 28), ("pbxguu", 28)]
+zvbnb (28)
+pbxguu (28)
+zrioi (156) -> [("hsvveid", 10), ("xqssuna", 10)]
+hsvveid (10)
+xqssuna (10)
+sdlcqtb (76) -> [("gfepc", 50), ("hxkatz", 50)]
+gfepc (50)
+hxkatz (50)
+fbnbt (5262) -> [("lcmek", 1549), ("aflzz", 1549), ("rqgccu", 1549), ("vxfpzku", 1549), ("yvixrl", 1549), ("ojkhavf", 1549)]
+lcmek (741) -> [("tksiwle", 202), ("bfkdbeh", 202), ("tjnuf", 202), ("yviutlw", 202)]
+tksiwle (78) -> [("xjwvvik", 62), ("pwmqpk", 62)]
+xjwvvik (62)
+pwmqpk (62)
+bfkdbeh (162) -> [("blmsqb", 10), ("vzeuayg", 10), ("kbpnl", 10), ("viubix", 10)]
+blmsqb (10)
+vzeuayg (10)
+kbpnl (10)
+viubix (10)
+tjnuf (180) -> [("mwkct", 11), ("qclnd", 11)]
+mwkct (11)
+qclnd (11)
+yviutlw (31) -> [("gjmkox", 57), ("hirayas", 57), ("xlyzym", 57)]
+gjmkox (57)
+hirayas (57)
+xlyzym (57)
+aflzz (1359) -> [("pkhvge", 95), ("uyuyq", 95)]
+pkhvge (95)
+uyuyq (95)
+rqgccu (760) -> [("qhlslym", 263), ("cqnlk", 263), ("dbsbuqp", 263)]
+qhlslym (147) -> [("gaxkntb", 58), ("eymlu", 58)]
+gaxkntb (58)
+eymlu (58)
+cqnlk (229) -> [("lpvqp", 17), ("pdowqq", 17)]
+lpvqp (17)
+pdowqq (17)
+dbsbuqp (97) -> [("ahnkcy", 83), ("ebootd", 83)]
+ahnkcy (83)
+ebootd (83)
+vxfpzku (797) -> [("zibll", 188), ("kqdus", 188), ("fzqdsv", 188), ("olylo", 188)]
+zibll (188)
+kqdus (52) -> [("bwhjal", 68), ("vbusaxq", 68)]
+bwhjal (68)
+vbusaxq (68)
+fzqdsv (38) -> [("yptyp", 75), ("wohpoh", 75)]
+yptyp (75)
+wohpoh (75)
+olylo (188)
+yvixrl (7) -> [("stguc", 257), ("dfywfie", 257), ("ialmhy", 257), ("pkpgu", 257), ("nzakpnw", 257), ("ompeys", 257)]
+stguc (133) -> [("evqfv", 62), ("lkuelr", 62)]
+evqfv (62)
+lkuelr (62)
+dfywfie (63) -> [("nfvliuy", 97), ("risguql", 97)]
+nfvliuy (97)
+risguql (97)
+ialmhy (206) -> [("iiktsrr", 17), ("acgef", 17), ("tkdsfz", 17)]
+iiktsrr (17)
+acgef (17)
+tkdsfz (17)
+pkpgu (95) -> [("nnzhve", 81), ("wcvxg", 81)]
+nnzhve (81)
+wcvxg (81)
+nzakpnw (50) -> [("gjjgkga", 69), ("bvgct", 69), ("pzbgf", 69)]
+gjjgkga (69)
+bvgct (69)
+pzbgf (69)
+ompeys (207) -> [("dhpviei", 25), ("plbbbno", 25)]
+dhpviei (25)
+plbbbno (25)
+ojkhavf (1465) -> [("siujrb", 42), ("igxzggb", 42)]
+siujrb (42)
+igxzggb (42)
+nfdvsc (4824) -> [("kenpyrt", 1622), ("ytqrut", 1622), ("pustj", 1622), ("hbymky", 1622), ("tpvvbr", 1622), ("lcfsu", 1622)]
+kenpyrt (282) -> [("zgvpy", 268), ("tntib", 268), ("drvxvk", 268), ("htojdr", 268), ("gqlnaho", 268)]
+zgvpy (200) -> [("nxkpw", 34), ("hhpysjd", 34)]
+nxkpw (34)
+hhpysjd (34)
+tntib (246) -> [("ldypun", 11), ("aubapo", 11)]
+ldypun (11)
+aubapo (11)
+drvxvk (102) -> [("bmzlp", 83), ("elpfsya", 83)]
+bmzlp (83)
+elpfsya (83)
+htojdr (72) -> [("rzaocr", 98), ("pxncq", 98)]
+rzaocr (98)
+pxncq (98)
+gqlnaho (84) -> [("tlfaxub", 92), ("xjszzfe", 92)]
+tlfaxub (92)
+xjszzfe (92)
+ytqrut (1468) -> [("euqxp", 77), ("ixukpw", 77)]
+euqxp (77)
+ixukpw (77)
+pustj (742) -> [("juavhi", 176), ("bwyjnu", 176), ("fvagct", 176), ("kbjazf", 176), ("oyomma", 176)]
+juavhi (20) -> [("krhkthl", 52), ("bbueq", 52), ("gdmuqn", 52)]
+krhkthl (52)
+bbueq (52)
+gdmuqn (52)
+bwyjnu (60) -> [("pzuxx", 58), ("mdfjh", 58)]
+pzuxx (58)
+mdfjh (58)
+fvagct (176)
+kbjazf (12) -> [("ljqmwwg", 41), ("iksafw", 41), ("tpezujs", 41), ("tfjadw", 41)]
+ljqmwwg (41)
+iksafw (41)
+tpezujs (41)
+tfjadw (41)
+oyomma (125) -> [("ynzpsk", 17), ("jygrpp", 17), ("cebdo", 17)]
+ynzpsk (17)
+jygrpp (17)
+cebdo (17)
+hbymky (774) -> [("qqqvdsu", 212), ("mztwrvf", 212), ("wrquv", 212), ("oppmeig", 212)]
+qqqvdsu (160) -> [("cyjcaht", 13), ("bwntinc", 13), ("hhrdosf", 13), ("lvsqvdi", 13)]
+cyjcaht (13)
+bwntinc (13)
+hhrdosf (13)
+lvsqvdi (13)
+mztwrvf (34) -> [("kmvcjir", 89), ("cgwnor", 89)]
+kmvcjir (89)
+cgwnor (89)
+wrquv (50) -> [("zlxxdjc", 54), ("mdkfx", 54), ("woqvn", 54)]
+zlxxdjc (54)
+mdkfx (54)
+woqvn (54)
+oppmeig (60) -> [("yqhss", 76), ("suupi", 76)]
+yqhss (76)
+suupi (76)
+tpvvbr (974) -> [("rqryd", 216), ("ctoruu", 216), ("unuvi", 216)]
+rqryd (132) -> [("pmebb", 42), ("qfbagb", 42)]
+pmebb (42)
+qfbagb (42)
+ctoruu (72) -> [("ynxjgv", 72), ("cexrf", 72)]
+ynxjgv (72)
+cexrf (72)
+unuvi (52) -> [("pvxof", 82), ("qcdsvv", 82)]
+pvxof (82)
+qcdsvv (82)
+lcfsu (18) -> [("cqdyyoo", 401), ("sxrzzuy", 401), ("iqegs", 401), ("yieehh", 401)]
+cqdyyoo (401)
+sxrzzuy (13) -> [("hcorylb", 97), ("itluk", 97), ("ybjbz", 97), ("igblzk", 97)]
+hcorylb (97)
+itluk (97)
+ybjbz (97)
+igblzk (97)
+iqegs (345) -> [("yrmqu", 14), ("swtks", 14), ("twzglew", 14), ("fmcjr", 14)]
+yrmqu (14)
+swtks (14)
+twzglew (14)
+fmcjr (14)
+yieehh (259) -> [("lviohn", 71), ("qwwmx", 71)]
+lviohn (71)
+qwwmx (71)
+pvvbn (8732) -> [("adyni", 13184), ("dvltfhm", 13184), ("luerna", 13184)]
+adyni (11474) -> [("kmjqzw", 285), ("mxoxo", 285), ("joxzy", 285), ("lxuiwb", 285), ("vznfkp", 285), ("blwaz", 285)]
+kmjqzw (63) -> [("avjfqex", 74), ("tqqldx", 74), ("ancmoj", 74)]
+avjfqex (74)
+tqqldx (74)
+ancmoj (74)
+mxoxo (117) -> [("icgwqn", 84), ("vjstu", 84)]
+icgwqn (84)
+vjstu (84)
+joxzy (253) -> [("fxnbfjk", 8), ("czvdrpq", 8), ("ubllrlw", 8), ("hjsfv", 8)]
+fxnbfjk (8)
+czvdrpq (8)
+ubllrlw (8)
+hjsfv (8)
+lxuiwb (201) -> [("ubnap", 21), ("qbdisnk", 21), ("urqoabs", 21), ("oepwc", 21)]
+ubnap (21)
+qbdisnk (21)
+urqoabs (21)
+oepwc (21)
+vznfkp (97) -> [("zfngau", 94), ("tijgc", 94)]
+zfngau (94)
+tijgc (94)
+blwaz (247) -> [("nebitb", 19), ("vrndjn", 19)]
+nebitb (19)
+vrndjn (19)
+dvltfhm (54) -> [("pooon", 2626), ("fagyf", 2626), ("owjjja", 2626), ("vhusoux", 2626), ("whrdhq", 2626)]
+pooon (22) -> [("bkrctx", 372), ("tybjmqm", 372), ("wxtrq", 372), ("hgynpc", 372), ("epblwo", 372), ("hnswwt", 372), ("kxgxji", 372)]
+bkrctx (84) -> [("usevrmp", 96), ("bkrbfap", 96), ("weaier", 96)]
+usevrmp (96)
+bkrbfap (96)
+weaier (96)
+tybjmqm (372)
+wxtrq (340) -> [("eolll", 16), ("wawkzh", 16)]
+eolll (16)
+wawkzh (16)
+hgynpc (267) -> [("bvfee", 35), ("prxlb", 35), ("iwkqae", 35)]
+bvfee (35)
+prxlb (35)
+iwkqae (35)
+epblwo (314) -> [("ysnwjl", 29), ("mryuhsl", 29)]
+ysnwjl (29)
+mryuhsl (29)
+hnswwt (32) -> [("mbcpufw", 85), ("xhnwej", 85), ("ovuesou", 85), ("jqjmgyv", 85)]
+mbcpufw (85)
+xhnwej (85)
+ovuesou (85)
+jqjmgyv (85)
+kxgxji (372)
+fagyf (589) -> [("jjxcsxg", 291), ("khbpnx", 291), ("wklmecc", 291), ("ajxmlfp", 291), ("iegjd", 291), ("eqreeik", 291), ("beyphy", 291)]
+jjxcsxg (18) -> [("eatoyd", 91), ("lqsgphu", 91), ("fqdccsa", 91)]
+eatoyd (91)
+lqsgphu (91)
+fqdccsa (91)
+khbpnx (117) -> [("kpegrqm", 87), ("mudup", 87)]
+kpegrqm (87)
+mudup (87)
+wklmecc (66) -> [("amgrlkr", 75), ("vtqpilo", 75), ("nnnfykw", 75)]
+amgrlkr (75)
+vtqpilo (75)
+nnnfykw (75)
+ajxmlfp (225) -> [("lvihecc", 33), ("yanat", 33)]
+lvihecc (33)
+yanat (33)
+iegjd (275) -> [("geavik", 8), ("zgcfeda", 8)]
+geavik (8)
+zgcfeda (8)
+eqreeik (27) -> [("vrezl", 66), ("lvuah", 66), ("ffrjb", 66), ("ykuzfu", 66)]
+vrezl (66)
+lvuah (66)
+ffrjb (66)
+ykuzfu (66)
+beyphy (221) -> [("cwfgzrp", 35), ("ojnrf", 35)]
+cwfgzrp (35)
+ojnrf (35)
+owjjja (1495) -> [("lfpwycg", 377), ("vqntk", 377), ("xzjbmpu", 377)]
+lfpwycg (209) -> [("qiniyf", 84), ("vdtdpz", 84)]
+qiniyf (84)
+vdtdpz (84)
+vqntk (21) -> [("hobnerj", 89), ("yxavos", 89), ("kyokkl", 89), ("mzrze", 89)]
+hobnerj (89)
+yxavos (89)
+kyokkl (89)
+mzrze (89)
+xzjbmpu (323) -> [("zefoig", 27), ("zljgpq", 27)]
+zefoig (27)
+zljgpq (27)
+vhusoux (1834) -> [("slsrzl", 264), ("cnhsgdv", 264), ("bzvqqp", 264)]
+slsrzl (60) -> [("fqskwj", 51), ("lhypfq", 51), ("jvneo", 51), ("mwbpro", 51)]
+fqskwj (51)
+lhypfq (51)
+jvneo (51)
+mwbpro (51)
+cnhsgdv (264)
+bzvqqp (86) -> [("vjmzqbb", 89), ("gzakvk", 89)]
+vjmzqbb (89)
+gzakvk (89)
+whrdhq (2578) -> [("uymwt", 24), ("dgjqciq", 24)]
+uymwt (24)
+dgjqciq (24)
+luerna (10160) -> [("fpekhb", 1008), ("hyolftw", 1008), ("rnvvg", 1008)]
+fpekhb (344) -> [("lqjnx", 166), ("xhqxyc", 166), ("swxncwt", 166), ("vljijeh", 166)]
+lqjnx (166)
+xhqxyc (74) -> [("avflv", 46), ("ovhos", 46)]
+avflv (46)
+ovhos (46)
+swxncwt (34) -> [("zwekns", 66), ("reeuuic", 66)]
+zwekns (66)
+reeuuic (66)
+vljijeh (150) -> [("xfwgll", 8), ("evmkzjr", 8)]
+xfwgll (8)
+evmkzjr (8)
+hyolftw (39) -> [("vkgqysh", 323), ("kqjfnb", 323), ("hxeia", 323)]
+vkgqysh (47) -> [("cpmxvjn", 92), ("aebhvbk", 92), ("epubm", 92)]
+cpmxvjn (92)
+aebhvbk (92)
+epubm (92)
+kqjfnb (91) -> [("tlnffr", 58), ("avroyn", 58), ("mytnwmk", 58), ("zamoi", 58)]
+tlnffr (58)
+avroyn (58)
+mytnwmk (58)
+zamoi (58)
+hxeia (271) -> [("fzvllyz", 26), ("hidmpw", 26)]
+fzvllyz (26)
+hidmpw (26)
+rnvvg (456) -> [("dkjfjwe", 184), ("pbeez", 184), ("cjinsf", 184)]
+dkjfjwe (146) -> [("ehnlfa", 19), ("sxzwplf", 19)]
+ehnlfa (19)
+sxzwplf (19)
+pbeez (64) -> [("qbfsj", 60), ("xprrajl", 60)]
+qbfsj (60)
+xprrajl (60)
+cjinsf (80) -> [("wwyuko", 52), ("renqhyi", 52)]
+wwyuko (52)
+renqhyi (52)
+hgizeb (5324) -> [("tfzsqj", 14320), ("njibgv", 14320), ("izjppbx", 14320)]
+tfzsqj (89) -> [("pqknhsq", 2033), ("fhbjovx", 2033), ("jbaxm", 2033), ("pvnfa", 2033), ("eqxce", 2033), ("hbmzilw", 2033), ("hyxxm", 2033)]
+pqknhsq (1031) -> [("gldorrf", 334), ("jcqgj", 334), ("fxptqn", 334)]
+gldorrf (198) -> [("byymvpo", 68), ("ulkpoko", 68)]
+byymvpo (68)
+ulkpoko (68)
+jcqgj (46) -> [("nxqswd", 96), ("lznju", 96), ("kohici", 96)]
+nxqswd (96)
+lznju (96)
+kohici (96)
+fxptqn (242) -> [("srqrs", 46), ("mxgqn", 46)]
+srqrs (46)
+mxgqn (46)
+fhbjovx (1553) -> [("tmmwda", 160), ("yibbu", 160), ("tzpxj", 160)]
+tmmwda (70) -> [("fqyogt", 45), ("ootknbf", 45)]
+fqyogt (45)
+ootknbf (45)
+yibbu (160)
+tzpxj (134) -> [("ujhkl", 13), ("gwvhjfe", 13)]
+ujhkl (13)
+gwvhjfe (13)
+jbaxm (293) -> [("qiveb", 290), ("fczix", 290), ("xrhjl", 290), ("gavdkw", 290), ("ptcccmw", 290), ("puawqd", 290)]
+qiveb (197) -> [("gpqcq", 31), ("evpav", 31), ("btpbnr", 31)]
+gpqcq (31)
+evpav (31)
+btpbnr (31)
+fczix (226) -> [("yvdilfo", 32), ("cprsra", 32)]
+yvdilfo (32)
+cprsra (32)
+xrhjl (216) -> [("dhrun", 37), ("ltseugc", 37)]
+dhrun (37)
+ltseugc (37)
+gavdkw (38) -> [("ztpysan", 63), ("zvsiqwe", 63), ("zoifh", 63), ("xdehk", 63)]
+ztpysan (63)
+zvsiqwe (63)
+zoifh (63)
+xdehk (63)
+ptcccmw (116) -> [("khjqt", 87), ("pzfdzb", 87)]
+khjqt (87)
+pzfdzb (87)
+puawqd (256) -> [("cwwpev", 17), ("eihkuqx", 17)]
+cwwpev (17)
+eihkuqx (17)
+pvnfa (503) -> [("rwjlopt", 255), ("aqcwqy", 255), ("ilbcji", 255), ("suyzrmf", 255), ("nmpxqi", 255), ("ibjoxjo", 255)]
+rwjlopt (11) -> [("xqsufx", 61), ("bjwgltq", 61), ("naseaj", 61), ("zjioec", 61)]
+xqsufx (61)
+bjwgltq (61)
+naseaj (61)
+zjioec (61)
+aqcwqy (101) -> [("httgiox", 77), ("orbwii", 77)]
+httgiox (77)
+orbwii (77)
+ilbcji (205) -> [("ctxwkkt", 25), ("utizol", 25)]
+ctxwkkt (25)
+utizol (25)
+suyzrmf (155) -> [("ybfyes", 50), ("cndqzdm", 50)]
+ybfyes (50)
+cndqzdm (50)
+nmpxqi (205) -> [("prspd", 25), ("uaguc", 25)]
+prspd (25)
+uaguc (25)
+ibjoxjo (175) -> [("ubhsnqw", 20), ("icjmhii", 20), ("lmvfuql", 20), ("wrnmwy", 20)]
+ubhsnqw (20)
+icjmhii (20)
+lmvfuql (20)
+wrnmwy (20)
+eqxce (23) -> [("qtatze", 335), ("wwoye", 335), ("qkseme", 335), ("yrtlizo", 335), ("kridw", 335), ("birvaha", 335)]
+qtatze (299) -> [("mrshnke", 18), ("hekihe", 18)]
+mrshnke (18)
+hekihe (18)
+wwoye (211) -> [("ojhbiv", 62), ("cixqrb", 62)]
+ojhbiv (62)
+cixqrb (62)
+qkseme (44) -> [("axnwb", 97), ("zkqxpbq", 97), ("crxji", 97)]
+axnwb (97)
+zkqxpbq (97)
+crxji (97)
+yrtlizo (291) -> [("letwfzz", 22), ("oavnz", 22)]
+letwfzz (22)
+oavnz (22)
+kridw (175) -> [("edmfm", 80), ("jrigbij", 80)]
+edmfm (80)
+jrigbij (80)
+birvaha (275) -> [("koyzdbq", 20), ("odirpnl", 20), ("jggzx", 20)]
+koyzdbq (20)
+odirpnl (20)
+jggzx (20)
+hbmzilw (1829) -> [("wnaykx", 68), ("ncrotbi", 68), ("jywye", 68)]
+wnaykx (68)
+ncrotbi (68)
+jywye (68)
+hyxxm (743) -> [("hojpgpo", 430), ("hragl", 430), ("mqsth", 430)]
+hojpgpo (58) -> [("shyxe", 93), ("xkzzcqt", 93), ("ymqqpug", 93), ("eqmkgj", 93)]
+shyxe (93)
+xkzzcqt (93)
+ymqqpug (93)
+eqmkgj (93)
+hragl (244) -> [("kfpxhb", 62), ("mcxti", 62), ("fwjdwhg", 62)]
+kfpxhb (62)
+mcxti (62)
+fwjdwhg (62)
+mqsth (258) -> [("bcwbp", 43), ("idnvd", 43), ("amhthnw", 43), ("rfmgglc", 43)]
+bcwbp (43)
+idnvd (43)
+amhthnw (43)
+rfmgglc (43)
+njibgv (688) -> [("ahmknyy", 2272), ("vruiy", 2272), ("wlfngqq", 2272), ("juvhkoc", 2272), ("ehefb", 2272), ("qfuoayy", 2272)]
+ahmknyy (637) -> [("qkqyelb", 327), ("vtdyp", 327), ("wjmbivd", 327), ("bfnkr", 327), ("oujtz", 327)]
+qkqyelb (253) -> [("ehravmh", 37), ("qzqtysl", 37)]
+ehravmh (37)
+qzqtysl (37)
+vtdyp (180) -> [("twxtbol", 49), ("cfihl", 49), ("vucwhs", 49)]
+twxtbol (49)
+cfihl (49)
+vucwhs (49)
+wjmbivd (63) -> [("rodegh", 88), ("dwhxnif", 88), ("mqafr", 88)]
+rodegh (88)
+dwhxnif (88)
+mqafr (88)
+bfnkr (132) -> [("wlodpu", 65), ("wavmnm", 65), ("hcpim", 65)]
+wlodpu (65)
+wavmnm (65)
+hcpim (65)
+oujtz (69) -> [("cyrqkl", 86), ("vjcexcx", 86), ("wuztvge", 86)]
+cyrqkl (86)
+vjcexcx (86)
+wuztvge (86)
+vruiy (711) -> [("aenvjl", 223), ("onmod", 223), ("ggzzt", 223), ("daiyp", 223), ("lrxyqgr", 223), ("uvdpata", 223), ("jbwoozn", 223)]
+aenvjl (34) -> [("rknadpx", 63), ("qreeg", 63), ("wevbhta", 63)]
+rknadpx (63)
+qreeg (63)
+wevbhta (63)
+onmod (99) -> [("flwhrzk", 31), ("jvjezrv", 31), ("umopgq", 31), ("xjpuoil", 31)]
+flwhrzk (31)
+jvjezrv (31)
+umopgq (31)
+xjpuoil (31)
+ggzzt (41) -> [("fkilb", 91), ("iartkgt", 91)]
+fkilb (91)
+iartkgt (91)
+daiyp (133) -> [("clwbp", 45), ("azysfe", 45)]
+clwbp (45)
+azysfe (45)
+lrxyqgr (106) -> [("phppbj", 39), ("tbure", 39), ("sspayll", 39)]
+phppbj (39)
+tbure (39)
+sspayll (39)
+uvdpata (131) -> [("emigqf", 46), ("tubcr", 46)]
+emigqf (46)
+tubcr (46)
+jbwoozn (111) -> [("otxroc", 56), ("bfioj", 56)]
+otxroc (56)
+bfioj (56)
+wlfngqq (484) -> [("pgvds", 298), ("rvzkv", 298), ("azycte", 298), ("igoifwl", 298), ("zfgqhf", 298), ("wlcjt", 298)]
+pgvds (134) -> [("manpd", 82), ("vkikri", 82)]
+manpd (82)
+vkikri (82)
+rvzkv (70) -> [("wgsgyv", 76), ("neafgd", 76), ("oseqshg", 76)]
+wgsgyv (76)
+neafgd (76)
+oseqshg (76)
+azycte (298)
+igoifwl (176) -> [("dijeym", 61), ("okcck", 61)]
+dijeym (61)
+okcck (61)
+zfgqhf (160) -> [("dbrxe", 69), ("fyubj", 69)]
+dbrxe (69)
+fyubj (69)
+wlcjt (298)
+juvhkoc (1546) -> [("yxccn", 242), ("juaquyw", 242), ("vsvyj", 242)]
+yxccn (86) -> [("dknly", 78), ("xtbdj", 78)]
+dknly (78)
+xtbdj (78)
+juaquyw (164) -> [("uembuig", 39), ("jajbpsk", 39)]
+uembuig (39)
+jajbpsk (39)
+vsvyj (242)
+ehefb (2158) -> [("akxtfh", 57), ("uxqlce", 57)]
+akxtfh (57)
+uxqlce (57)
+qfuoayy (74) -> [("xzuedm", 314), ("ftuues", 314), ("alcioc", 314), ("lhauud", 314), ("ozvtq", 314), ("szcqd", 314), ("brnqhc", 314)]
+xzuedm (212) -> [("dyxtot", 51), ("dnlao", 51)]
+dyxtot (51)
+dnlao (51)
+ftuues (124) -> [("puoogd", 95), ("gyhfl", 95)]
+puoogd (95)
+gyhfl (95)
+alcioc (314)
+lhauud (220) -> [("zlaxh", 47), ("eqtmes", 47)]
+zlaxh (47)
+eqtmes (47)
+ozvtq (254) -> [("zjchuge", 20), ("zxqmj", 20), ("xcpuy", 20)]
+zjchuge (20)
+zxqmj (20)
+xcpuy (20)
+szcqd (260) -> [("gpzqcqk", 27), ("tnngnq", 27)]
+gpzqcqk (27)
+tnngnq (27)
+brnqhc (70) -> [("neclo", 61), ("ppstt", 61), ("ktyyedq", 61), ("xnfstk", 61)]
+neclo (61)
+ppstt (61)
+ktyyedq (61)
+xnfstk (61)
+izjppbx (1108) -> [("qzvrq", 2202), ("cgnewz", 2202), ("zbwysvr", 2202), ("xkghfhn", 2202), ("ugujla", 2202), ("nwfykuw", 2202)]
+qzvrq (1178) -> [("gxprou", 256), ("rpiefl", 256), ("xzndm", 256), ("tchaqbm", 256)]
+gxprou (58) -> [("wyucu", 66), ("grwcz", 66), ("kbyijkc", 66)]
+wyucu (66)
+grwcz (66)
+kbyijkc (66)
+rpiefl (120) -> [("cjnkge", 34), ("xqmhigw", 34), ("ugeucjn", 34), ("brdpdm", 34)]
+cjnkge (34)
+xqmhigw (34)
+ugeucjn (34)
+brdpdm (34)
+xzndm (199) -> [("hxlsxdj", 19), ("csvni", 19), ("ohapkri", 19)]
+hxlsxdj (19)
+csvni (19)
+ohapkri (19)
+tchaqbm (121) -> [("snluaf", 45), ("uvjevu", 45), ("kpxrk", 45)]
+snluaf (45)
+uvjevu (45)
+kpxrk (45)
+cgnewz (179) -> [("gounu", 289), ("icflka", 289), ("yusue", 289), ("zbjdebj", 289), ("mevdoy", 289), ("gvgnev", 289), ("etfbf", 289)]
+gounu (145) -> [("azvltq", 72), ("jrquxee", 72)]
+azvltq (72)
+jrquxee (72)
+icflka (157) -> [("pwzvu", 66), ("wqtku", 66)]
+pwzvu (66)
+wqtku (66)
+yusue (91) -> [("owsoywa", 99), ("pobecj", 99)]
+owsoywa (99)
+pobecj (99)
+zbjdebj (73) -> [("dukup", 72), ("cqxav", 72), ("ivbrype", 72)]
+dukup (72)
+cqxav (72)
+ivbrype (72)
+mevdoy (289)
+gvgnev (289)
+etfbf (239) -> [("oitpd", 25), ("nhxyn", 25)]
+oitpd (25)
+nhxyn (25)
+zbwysvr (1226) -> [("ckdwk", 244), ("bjzlgik", 244), ("lbajhe", 244), ("lnoihzx", 244)]
+ckdwk (104) -> [("wlxwq", 70), ("vuldc", 70)]
+wlxwq (70)
+vuldc (70)
+bjzlgik (154) -> [("iondfqm", 45), ("izkhkai", 45)]
+iondfqm (45)
+izkhkai (45)
+lbajhe (180) -> [("fausgp", 32), ("zkeep", 32)]
+fausgp (32)
+zkeep (32)
+lnoihzx (43) -> [("qkhudy", 67), ("zdseqzi", 67), ("ydehaq", 67)]
+qkhudy (67)
+zdseqzi (67)
+ydehaq (67)
+xkghfhn (1524) -> [("hdlfpj", 226), ("deqcnp", 226), ("iomxv", 226)]
+hdlfpj (46) -> [("bddii", 60), ("konmy", 60), ("mdwqmyg", 60)]
+bddii (60)
+konmy (60)
+mdwqmyg (60)
+deqcnp (142) -> [("ivrnod", 42), ("ovzcdi", 42)]
+ivrnod (42)
+ovzcdi (42)
+iomxv (226)
+ugujla (78) -> [("fybpzfy", 354), ("uiyxk", 354), ("selfpoj", 354), ("fdurqvg", 354), ("kdsscve", 354), ("jarvx", 354)]
+fybpzfy (210) -> [("pqmsc", 72), ("wufcpvr", 72)]
+pqmsc (72)
+wufcpvr (72)
+uiyxk (204) -> [("vgysvve", 75), ("qnpzxal", 75)]
+vgysvve (75)
+qnpzxal (75)
+selfpoj (46) -> [("xsepbvk", 77), ("liida", 77), ("dyaayff", 77), ("ywhmyp", 77)]
+xsepbvk (77)
+liida (77)
+dyaayff (77)
+ywhmyp (77)
+fdurqvg (198) -> [("trnpdnb", 78), ("ijlmcnx", 78)]
+trnpdnb (78)
+ijlmcnx (78)
+kdsscve (310) -> [("sqcwjaa", 22), ("djsexcr", 22)]
+sqcwjaa (22)
+djsexcr (22)
+jarvx (188) -> [("jjlsy", 83), ("nrywfm", 83)]
+jjlsy (83)
+nrywfm (83)
+nwfykuw (2136) -> [("jonbur", 33), ("izuxb", 33)]
+jonbur (33)
+izuxb (33)
+tchfafn (31649) -> [("qrxso", 5545), ("xoedja", 5545), ("fapkonf", 5545)]
+qrxso (46) -> [("azxoyif", 1833), ("kbehv", 1833), ("zuhkp", 1833)]
+azxoyif (1368) -> [("dkohgp", 155), ("irgkfsa", 155), ("plysamb", 155)]
+dkohgp (119) -> [("bvoqpkb", 18), ("cwgux", 18)]
+bvoqpkb (18)
+cwgux (18)
+irgkfsa (83) -> [("syhjziw", 24), ("kzvbkr", 24), ("lbgwc", 24)]
+syhjziw (24)
+kzvbkr (24)
+lbgwc (24)
+plysamb (11) -> [("yuwoa", 72), ("vwrhg", 72)]
+yuwoa (72)
+vwrhg (72)
+kbehv (62) -> [("dbbsyeo", 253), ("jotnlgm", 253), ("igqzqiy", 253), ("uhukwcq", 253), ("zhallzk", 253), ("fvyiwup", 253), ("wgkxy", 253)]
+dbbsyeo (79) -> [("jldgbkx", 87), ("nkfpci", 87)]
+jldgbkx (87)
+nkfpci (87)
+jotnlgm (79) -> [("povsm", 58), ("nrvqpd", 58), ("iufypzm", 58)]
+povsm (58)
+nrvqpd (58)
+iufypzm (58)
+igqzqiy (167) -> [("yuzwdix", 43), ("ruuerqk", 43)]
+yuzwdix (43)
+ruuerqk (43)
+uhukwcq (151) -> [("pnncrgq", 51), ("yuepo", 51)]
+pnncrgq (51)
+yuepo (51)
+zhallzk (173) -> [("qkmqmg", 40), ("tkgkl", 40)]
+qkmqmg (40)
+tkgkl (40)
+fvyiwup (165) -> [("hdtxgb", 22), ("ovuqg", 22), ("klccwcn", 22), ("fixsej", 22)]
+hdtxgb (22)
+ovuqg (22)
+klccwcn (22)
+fixsej (22)
+wgkxy (141) -> [("ryhlz", 56), ("ohjax", 56)]
+ryhlz (56)
+ohjax (56)
+zuhkp (1365) -> [("bjdlb", 156), ("ihimta", 156), ("ffejzo", 156)]
+bjdlb (50) -> [("yonojr", 53), ("fwubo", 53)]
+yonojr (53)
+fwubo (53)
+ihimta (44) -> [("wjyekj", 56), ("yeimwk", 56)]
+wjyekj (56)
+yeimwk (56)
+ffejzo (70) -> [("lcourm", 43), ("rdfab", 43)]
+lcourm (43)
+rdfab (43)
+xoedja (1123) -> [("chrzza", 1474), ("cghtkzr", 1474), ("gzrfjk", 1474)]
+chrzza (66) -> [("pnfwlas", 352), ("igbqenq", 352), ("hmytpw", 352), ("nwhunwf", 352)]
+pnfwlas (232) -> [("mkuernu", 60), ("edvqwvm", 60)]
+mkuernu (60)
+edvqwvm (60)
+igbqenq (212) -> [("fuyldc", 70), ("dxlttzs", 70)]
+fuyldc (70)
+dxlttzs (70)
+hmytpw (178) -> [("ywacbmq", 87), ("ubqbhos", 87)]
+ywacbmq (87)
+ubqbhos (87)
+nwhunwf (88) -> [("ygidtwv", 66), ("lrxzg", 66), ("ifluvxj", 66), ("soixton", 66)]
+ygidtwv (66)
+lrxzg (66)
+ifluvxj (66)
+soixton (66)
+cghtkzr (418) -> [("holuib", 352), ("ovkpba", 352), ("ifvkdba", 352)]
+holuib (302) -> [("usfzaf", 25), ("oustcqz", 25)]
+usfzaf (25)
+oustcqz (25)
+ovkpba (352)
+ifvkdba (52) -> [("ibuilzl", 75), ("yalugkr", 75), ("vxbio", 75), ("pgkiqa", 75)]
+ibuilzl (75)
+yalugkr (75)
+vxbio (75)
+pgkiqa (75)
+gzrfjk (781) -> [("sieovol", 231), ("lmavxq", 231), ("qqkctf", 231)]
+sieovol (231)
+lmavxq (75) -> [("idqaxgi", 78), ("bonoob", 78)]
+idqaxgi (78)
+bonoob (78)
+qqkctf (121) -> [("zouklk", 55), ("busosd", 55)]
+zouklk (55)
+busosd (55)
+fapkonf (3295) -> [("hmlvv", 750), ("xppkv", 750), ("ezwitpp", 750)]
+hmlvv (75) -> [("bsoesu", 225), ("qucnu", 225), ("kbpxjg", 225)]
+bsoesu (47) -> [("mhdauqb", 89), ("bfaak", 89)]
+mhdauqb (89)
+bfaak (89)
+qucnu (225)
+kbpxjg (225)
+xppkv (249) -> [("uasrsi", 167), ("qfqkz", 167), ("rkznog", 167)]
+uasrsi (95) -> [("cujdv", 18), ("bvdnvep", 18), ("vzldrq", 18), ("vdgvmd", 18)]
+cujdv (18)
+bvdnvep (18)
+vzldrq (18)
+vdgvmd (18)
+qfqkz (15) -> [("xmett", 76), ("etfnmle", 76)]
+xmett (76)
+etfnmle (76)
+rkznog (9) -> [("civhlqc", 79), ("xytulz", 79)]
+civhlqc (79)
+xytulz (79)
+ezwitpp (123) -> [("aftndu", 209), ("urxzo", 209), ("qchxbon", 209)]
+aftndu (11) -> [("xckzcq", 66), ("cymvz", 66), ("oblhfhz", 66)]
+xckzcq (66)
+cymvz (66)
+oblhfhz (66)
+urxzo (145) -> [("ntqdxv", 16), ("nxnjrzj", 16), ("fcbeagx", 16), ("aqxdf", 16)]
+ntqdxv (16)
+nxnjrzj (16)
+fcbeagx (16)
+aqxdf (16)
+qchxbon (109) -> [("muesucc", 50), ("vvukaca", 50)]
+muesucc (50)
+vvukaca (50)
+eugwuhl 0
+
+Time: 3357 ms
