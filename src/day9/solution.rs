@@ -114,6 +114,5 @@ mod tests {
         assert_eq!(0, super::part2("<!!>"));
         assert_eq!(0, super::part2("<!!!>>"));
         assert_eq!(10, super::part2("<{o\"i!a,<{i<a>"));
-        assert_eq!(20, super::part2("<{o\"i!a,<{i<a>asdjasdkl<!!>asjld<{o\"i!a,<{i<a>"));
     }
 }
