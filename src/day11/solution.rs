@@ -9,18 +9,25 @@ fn load_input() -> Result<String, Box<Error>> {
     return Ok(contents);
 }
 
-
 pub fn solve() {
-    let contents = load_input().unwrap();
-    let solution1 = part1(&contents);
-    println!("{}", solution1);
+    let contents = load_input().expect("Error while reading file");
+    let (distance, furthest) = solution(&contents);
+    println!("{} {}", distance, furthest);
 }
 
-fn part1(input: &str) -> usize {
-    return input.split(',')
+fn solution(input: &str) -> (usize, usize) {
+    let mut furthest = 0;
+    let distance = input.split(',')
         .map(|x| get_coordinate(x))
-        .fold(Point::new(0,0,0), |acc, x| acc.add(x))
+        .fold(Point::new(0,0,0), |acc, x| {
+            let sum = acc.add(x);
+            if sum.distance() > furthest {
+                furthest = sum.distance();
+            }
+            return sum; 
+        })
         .distance();
+    return (distance, furthest);
 }
 
 fn get_coordinate(direction: &str) -> Point {
@@ -66,10 +73,10 @@ impl Point {
 #[cfg(test)]
 mod tests {
     #[test]
-    fn part1() {
-        assert_eq!(3, super::part1("ne,ne,ne"));
-        assert_eq!(0, super::part1("ne,ne,sw,sw"));
-        assert_eq!(2, super::part1("ne,ne,s,s"));
-        assert_eq!(3, super::part1("se,sw,se,sw,sw"));        
+    fn solve() {
+        assert_eq!((3, 3), super::solution("ne,ne,ne"));
+        assert_eq!((0, 2), super::solution("ne,ne,sw,sw"));
+        assert_eq!((2, 2), super::solution("ne,ne,s,s"));
+        assert_eq!((3, 3), super::solution("se,sw,se,sw,sw"));        
     }
 }
