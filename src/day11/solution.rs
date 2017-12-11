@@ -77,6 +77,6 @@ mod tests {
         assert_eq!((3, 3), super::solution("ne,ne,ne"));
         assert_eq!((0, 2), super::solution("ne,ne,sw,sw"));
         assert_eq!((2, 2), super::solution("ne,ne,s,s"));
-        assert_eq!((3, 3), super::solution("se,sw,se,sw,sw"));        
+        assert_eq!((3, 3), super::solution("se,sw,se,sw,sw"));
     }
 }
