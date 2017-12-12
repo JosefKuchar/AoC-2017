@@ -13,6 +13,7 @@ mod day08;
 mod day09;
 mod day10;
 mod day11;
+mod day12;
 
 fn main() {
     let start = PreciseTime::now();
@@ -27,6 +28,7 @@ fn main() {
     day09::solve();
     day10::solve();
     day11::solve();
+    day12::solve();
     let end = PreciseTime::now();
     println!("\nTime: {} ms", start.to(end).num_milliseconds());
 }

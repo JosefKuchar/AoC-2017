@@ -4,7 +4,7 @@ use std::error::Error;
 use std::collections::HashSet;
 
 fn load_input() -> Result<String, Box<Error>> {
-    let mut file = File::open("src/day6/input.txt")?;
+    let mut file = File::open("src/day06/input.txt")?;
     let mut contents = String::new();
     file.read_to_string(&mut contents)?;
     return Ok(contents);

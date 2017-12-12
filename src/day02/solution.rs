@@ -4,7 +4,7 @@ use std::error::Error;
 use std::usize;
 
 fn load_input() -> Result<String, Box<Error>> {
-    let mut file = File::open("src/day2/input.txt")?;
+    let mut file = File::open("src/day02/input.txt")?;
     let mut contents = String::new();
     file.read_to_string(&mut contents)?;
 

@@ -3,7 +3,7 @@ use std::io::prelude::*;
 use std::error::Error;
 
 fn load_input() -> Result<String, Box<Error>> {
-    let mut file = File::open("src/day1/input.txt")?;
+    let mut file = File::open("src/day01/input.txt")?;
     let mut contents = String::new();
     file.read_to_string(&mut contents)?;
 
