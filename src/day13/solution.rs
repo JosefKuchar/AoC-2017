@@ -11,18 +11,14 @@ fn load_input() -> Result<String, Box<Error>> {
 
 pub fn solve() {
     let contents = load_input().unwrap();
-    let part1 = solution(&contents);
-    println!("{}", part1);
+    let (part1, part2) = solution(&contents);
+    println!("{} {}", part1, part2);
 }
 
-fn pass(input: &str, delay: usize) -> usize {
+fn solution(input: &str) -> (usize, usize) {
     let mut layers: Vec<Layer> = generate_layers(&input);
     let mut current_layer = 0;
     let mut score = 0;
-
-    for i in 0..delay {
-        update_layers(&mut layers);
-    }
 
     for (index, layer) in layers.clone().iter().enumerate() {
         if layers[index].range != 0 && layers[index].position == 0 {
@@ -30,12 +26,15 @@ fn pass(input: &str, delay: usize) -> usize {
         }
         update_layers(&mut layers);
     }
-    return score;
+
+    let mut delay = 0;
+    while layers.iter().filter(|&l| l.range != 0).any(|&l| (l.index + delay) % ((l.range - 1) * 2) == 0) {
+        delay += 1;
+    }
+
+    return (score, delay);
 }
 
-fn solution(input: &str) -> usize {
-    return pass(&input, 0);
-}
 
 #[derive(Debug, Clone, Copy)]
 struct Layer {
@@ -95,10 +94,10 @@ fn generate_layers(input: &str) -> Vec<Layer> {
 #[cfg(test)]
 mod tests {
     #[test]
-    fn solution() {
+    fn solve() {
         assert_eq!((24, 10), super::solution("0: 3\n\
-                                            1: 2\n\
-                                            4: 4\n\
-                                            6: 4"));
-    } 
+                                        1: 2\n\
+                                        4: 4\n\
+                                        6: 4"));
+    }
 }
