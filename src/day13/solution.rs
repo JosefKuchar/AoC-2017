@@ -17,10 +17,9 @@ pub fn solve() {
 
 fn solution(input: &str) -> (usize, usize) {
     let mut layers: Vec<Layer> = generate_layers(&input);
-    let mut current_layer = 0;
     let mut score = 0;
 
-    for (index, layer) in layers.clone().iter().enumerate() {
+    for (index, _) in layers.clone().iter().enumerate() {
         if layers[index].range != 0 && layers[index].position == 0 {
             score += index * layers[index].range;
         }
