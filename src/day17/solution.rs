@@ -16,15 +16,23 @@ fn part1(steps: usize) -> usize {
 }
 
 fn part2(steps: usize) -> usize {
-    let mut buffer: Vec<usize> = vec![0];
-    let mut position = 0;
-    for i in 1..50_000_001 {
-        position += steps + 1;
-        position %= buffer.len();
-        buffer.insert(position, i);
+    let mut index = 0;
+    let mut zero_position = 0;
+    let mut neighbor = 0;
+    let mut buffer = 1;
+    for i in 1..50000000 {
+        index = ((steps + index) % buffer) + 1;
+        buffer += 1;
+
+        if index <= zero_position {
+            zero_position += 1;
+        }
+
+        if index == zero_position + 1 {
+            neighbor = i;
+        }
     }
-    let index = buffer.iter().position(|&x| x == 0).unwrap();
-    return buffer[(index + 1) % buffer.len()];
+    return neighbor;
 }
 
 #[cfg(test)]
