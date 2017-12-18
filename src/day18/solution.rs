@@ -13,7 +13,8 @@ fn load_input() -> Result<String, Box<Error>> {
 pub fn solve() {
     let contents = load_input().unwrap();
     let part1 = part1(&contents);
-    println!("{}", part1);
+    let part2 = part2(&contents);
+    println!("{} {}", part1, part2);
 }
 
 fn part1(input: &str) -> isize {
@@ -66,6 +67,90 @@ fn part1(input: &str) -> isize {
     }
 
     return last_frequency;
+}
+
+fn part2(input: &str) -> usize{
+    let mut program_0 = Program::new(0, input);
+    let mut program_1 = Program::new(1, input);
+    program_0.run(&mut Vec::new());
+    for i in 0..300 {
+        program_1.run(&mut program_0.queue);
+        program_0.run(&mut program_1.queue);
+    }
+
+    return program_1.sends;
+}
+
+struct Program {
+    registers: HashMap<String, isize>,
+    queue: Vec<isize>,
+    code: String,
+    index: usize,
+    sends: usize
+}
+
+impl Program {
+    fn new(id: isize, code: &str) -> Program {
+        let mut registers = HashMap::new();
+        registers.insert("p".to_owned(), id);
+        return Program {
+            registers: registers,
+            queue: Vec::new(),
+            code: code.to_owned(),
+            index: 0,
+            sends: 0
+        }
+    }
+
+    fn run(&mut self, partner_queue: &mut Vec<isize>) {
+        loop {
+            let lines: Vec<&str> = self.code.lines().collect();
+            let parts: Vec<&str> = lines[self.index].split_whitespace().collect();
+
+            let mut y = 0;       
+            if let Some(register) = parts.get(2) {
+                let number = register.parse::<isize>();
+                y = match number {
+                    Ok(value) => value,
+                    Err(_) => *(self.registers.entry(register.to_owned().to_owned()).or_insert(0))
+                }
+            }
+
+            let x = self.registers.entry(parts[1].to_owned()).or_insert(0);
+            match parts[0] {
+                "snd" => {
+                    self.queue.push(*x);
+                    self.sends += 1;
+                },
+                "set" => {
+                    *x = y
+                },
+                "add" => {
+                    *x += y;
+                },
+                "mul" => {
+                    *x *= y; 
+                },
+                "mod" => {
+                    *x %= y;
+                },
+                "rcv" => {
+                    if partner_queue.len() > 0 {
+                        *x = partner_queue.remove(0);
+                    } else {
+                        break;
+                    }
+                },
+                "jgz" => {
+                    if *x > 0 || parts[1] == "1" {
+                        self.index = (self.index as isize + y - 1) as usize;
+                    }
+                },
+                _ => unimplemented!()
+            }
+            self.index += 1;
+        }
+    }
 }
 
 #[cfg(test)]
