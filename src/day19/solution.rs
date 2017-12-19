@@ -11,15 +11,17 @@ fn load_input() -> Result<String, Box<Error>> {
 
 pub fn solve() {
     let contents = load_input().unwrap();
-    let part1 = part1(&contents);
-    println!("{}", part1);
+    let (part1, part2) = solution(&contents);
+    println!("{} {}", part1, part2);
 }
 
-fn part1(input: &str) -> String {
+fn solution(input: &str) -> (String, usize) {
     let grid: Vec<Vec<char>> = input.lines().map(|x| x.chars().collect()).collect();
     let mut letters = String::new();
     let mut position = Point::new(0, 0);
     let mut direction = Point::new(0, 1);
+    let mut steps = 0;
+
     // Find start
     for (index, character) in grid[0].iter().enumerate() {
         if *character == '|' {
@@ -58,9 +60,10 @@ fn part1(input: &str) -> String {
             }
         }
         position.add(&direction);
+        steps += 1;
     }
 
-    return letters;
+    return (letters, steps);
 }
 
 #[derive(Debug, Clone, Copy)]
@@ -86,7 +89,7 @@ impl Point {
 #[cfg(test)]
 mod tests {
     #[test]
-    fn part1() {
-        assert_eq!("ABCDEF", super::part1("     |          \n     |  +--+    \n     A  |  C    \n F---|----E|--+ \n     |  |  |  D \n     +B-+  +--+ \n                "));
+    fn solve() {
+        assert_eq!(("ABCDEF".to_owned(), 38), super::solution("     |          \n     |  +--+    \n     A  |  C    \n F---|----E|--+ \n     |  |  |  D \n     +B-+  +--+ \n                "));
     }
 }
