@@ -12,7 +12,8 @@ fn load_input() -> Result<String, Box<Error>> {
 pub fn solve() {
     let contents = load_input().unwrap();
     let part1 = solution(&contents, 5);
-    println!("{}", part1);
+    let part2 = solution(&contents, 18);
+    println!("{} {}", part1, part2);
 }
 
 fn solution(input: &str, iterations: usize) -> usize {
@@ -20,15 +21,6 @@ fn solution(input: &str, iterations: usize) -> usize {
                             vec![false, false, true],
                             vec![true, true, true]];
     let rules = parse_rules(input);
-    /*
-    let mut pattern = vec![vec![false, false, true, false, true, true],
-                            vec![false, false, true, false, true, true],
-                            vec![true, false, true, false, true, false],
-                            vec![false, false, true, true, true, true],
-                            vec![false, false, true, false, true, false],
-                            vec![true, false, false, false, true, true]];*/
-
-    // PARSE PATTERNS
 
     for _ in 0..iterations {
         let mut patterns = split_pattern(&pattern);
@@ -41,11 +33,6 @@ fn solution(input: &str, iterations: usize) -> usize {
         
         pattern = join_patterns(&patterns);
     }
-
-    //println!("{:?}", split_pattern(&pattern));
-    //println!("{:?}", rotate(&pattern));
-    //println!("{:?}", flip(&pattern));
-    //println!("{:?}", join_patterns(&vec![vec![vec![vec![false, false], vec![false, false]], vec![vec![true, false], vec![true, false]], vec![vec![true, true], vec![true, true]]], vec![vec![vec![true, false], vec![false, false]], vec![vec![true, false], vec![true, true]], vec![vec![true, false], vec![true, true]]], vec![vec![vec![false, false], vec![true, false]], vec![vec![true, false], vec![false, false]], vec![vec![true, false], vec![true, true]]]]));
     
     let mut sum = 0;
     for row in &pattern {
@@ -64,7 +51,6 @@ fn match_rule(pattern: &Vec<Vec<bool>>, rules: &Vec<Rule>) -> Vec<Vec<bool>> {
             }
         }    
     }
-    //p0rintln!("{:?}", pattern);
     unimplemented!();   
 }
 
