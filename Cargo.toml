@@ -5,3 +5,4 @@ authors = ["Josef Kuchař <email@josefkuchar.cz>"]
 
 [dependencies]
 time = "*"
+primal = "0.2.3"

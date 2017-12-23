@@ -3,6 +3,8 @@ use std::io::prelude::*;
 use std::error::Error;
 use std::collections::HashMap;
 
+extern crate primal;
+
 fn load_input() -> Result<String, Box<Error>> {
     let mut file = File::open("src/day23/input.txt")?;
     let mut contents = String::new();
@@ -13,11 +15,13 @@ fn load_input() -> Result<String, Box<Error>> {
 pub fn solve() {
     let contents = load_input().unwrap();
     let part1 = part1(&contents);
-    println!("{}", part1);
+    let part2 = part2();
+    println!("{} {}", part1, part2);
 }
 
 fn part1(input: &str) -> isize {
     let mut registers: HashMap<&str, isize> = HashMap::new();
+
     let mut multiplications = 0;
     let lines: Vec<&str> = input.split('\n').collect();
     let mut index: isize = 0;
@@ -60,4 +64,19 @@ fn part1(input: &str) -> isize {
     }
 
     return multiplications;
+}
+
+fn part2() -> usize {
+    let mut b = 57 * 100 + 100000;
+    let mut c = b + 17000;
+    let mut h = 0;
+
+    while b <= c {
+        if !primal::is_prime(b) {
+            h += 1;
+        }
+        b += 17;
+    }
+
+    return h;
 }
